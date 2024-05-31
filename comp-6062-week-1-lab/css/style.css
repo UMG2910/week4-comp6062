@@ -1,0 +1,27 @@
+body{
+    background-color: #000;
+    color: #fff;
+}
+
+h1{
+    color: #ccff00
+}
+
+h2{
+    color: #000;
+    background-color: aquamarine;
+    border-radius: 15px;
+    
+}
+
+a {
+    color: aqua;
+    font-family: Arial;
+}
+
+/* Below is some css that  will make images 505 width and */
+img{
+    width: 25%;
+    height: auto;
+    border-radius: 10%;
+}
